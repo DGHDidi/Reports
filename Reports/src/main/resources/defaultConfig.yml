@@ -1,0 +1,10 @@
+MySQL:
+  host: "localhost"
+  database: "Minecraft"
+  port: 3306
+  username: "root"
+  password: "123456"
+Reports:
+  staffPrefix: "§b[员工] §2[举报] "
+  playerPrefix: "§8[§e举报系统§8] "
+  teleportDelay(ms): 2000
